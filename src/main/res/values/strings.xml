@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StartMe</string>
+    <string name="prompt_email">Email</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_out">Sign out</string>
+    <string name="invalid_username">Not a valid email</string>
+    <string name="invalid_password">Password must be >=6 characters and have at least 1 digit,
+        uppercase and lowercase characters</string>
+    <string name="login_failed">User Not Found (Exception)</string>
+    <string name="isLogged">is User Logged in</string>
+    <string name="user">User</string>
+    <string name="currentUser">Current User</string>
+</resources>

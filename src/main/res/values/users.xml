@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="usersDataArray">
+            <item>User</item>
+            <item>1</item>
+            <item>Hahadurf@gmail.com</item>
+            <item>UmniyParol66</item>
+            <item>Kakadu</item>
+            <item>Rf</item>
+            <item>Kakadurf@gmail.com</item>
+            <item>UmniyParol66</item>
+            <item>User</item>
+            <item>Unknown</item>
+            <item>Hahadurf@mail.ru</item>
+            <item>UmniyParol66</item>
+            <item>User</item>
+            <item>Unknown</item>
+            <item>Hahadurf@fail.ru</item>
+            <item>UmniyParol66</item>
+    </string-array>
+</resources>
